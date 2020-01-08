@@ -1,9 +1,9 @@
-# Magpie JupyterHub Authenticator #
+# Magpie JupyterHub Authenticator
 
 Magpie authenticator for [JupyterHub](http://github.com/jupyter/jupyterhub/)
 that allows allows login using Magpie credentials with the default ziggurat provider.
 
-## Demonstration ##
+## Demonstration
 
 Configure the `c.MagpieAuthenticator.magpie_url` url in `docker/jupyterhub_config.py`
 to point to a running instance of Magpie, then:
