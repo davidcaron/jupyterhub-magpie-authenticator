@@ -1,0 +1,3 @@
+from jupyterhub_magpie_authenticator.jupyterhub_magpie_authenticator import MagpieAuthenticator
+
+__all__ = [MagpieAuthenticator]
