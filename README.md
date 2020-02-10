@@ -16,3 +16,7 @@ docker-compose up -d
 Go to the jupyterhub url (`http://localhost`) and try to login using magpie credentials.
 
 If there is an error, check the docker logs.
+
+### Note
+
+Installed directly in the jupyterhub docker image here: https://github.com/ouranosinc/jupyterhub
